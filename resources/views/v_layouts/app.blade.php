@@ -508,7 +508,7 @@
                 <div id="home-slick">
                     <!-- banner -->
                     <div class="banner banner-1">
-                        <img src="{{ asset('frontend/img/banner01.jpg') }}" alt="">
+                        <img src="{{ asset('frontend/img/hijab1.jpeg') }}" alt="">
                         <div class="banner-caption text-center">
                             <h1>Bags sale</h1>
                             <h3 class="white-color font-weak">Up to 50% Discount</h3>
